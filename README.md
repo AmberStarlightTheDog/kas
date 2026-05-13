@@ -1,0 +1,1 @@
+ESTO ESTA MUY INCOMPLETO ES CASI UNA PRUEBA, ese placeholder lo voy a remplasar con un gif de mi fursona, hecho por un artista llamado kip, tambien va a tener mas categorias y una version en ingles pero ESTO ESTA INCOMPLETO OK?????????
