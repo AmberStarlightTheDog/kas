@@ -1,0 +1,50 @@
+ <!DOCTYPE html>
+ <html>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>kas</title>
+    <link rel="stylesheet" href="style.css">
+    <body>
+         <style>
+          body
+        {
+            background-image: url(https://www.image2url.com/r2/default/images/1778628374754-80e1587e-63cb-4313-9327-8bfc8c513908.png);
+            height: 250vh;
+            background-size: cover;
+            background-position: center;
+         }
+         </style>
+             <img src="https://www.image2url.com/r2/default/images/1778538279435-b587150c-8f88-4c81-9e41-8bbbcea566e2.png" class = "centerImage">
+            <style>
+                .centerImage {
+                    display: block;
+                    margin-left: auto;
+                    margin-right: auto;
+                    width: 50%;
+                }
+                </style> 
+     <h1 style="font-family: Impact; color: red; text-align: center; font-size: 45px;">Esto es un wip!</h1>
+     <h1 style="font-family: Impact; color: rgb(41, 0, 0); text-align: center; font-size: 45px; -webkit-text-stroke: 1px white;">kas the goat</h1>
+     <p style="font-family: 'Oswald', sans-serif; color: black; text-align: center; font-size: 25px; -webkit-text-stroke: 1px white;"><b>¿Quien soy yo? Pues soy un animador furro de Costa Rica bigénero, osea, me vale que pronombres uses con migo, he animado desde que tengo 8, dibujando desde siempre y programo desde 2026. Aquí encontrarás información mía y (principalmente) de mis gustos, ya que me gusta mucho hablar de ellos ;P</b></p>
+     <br>
+        <h1 style="font-family: Impact; color: rgb(41, 0, 0); text-align: center; font-size: 45px; -webkit-text-stroke: 1px white;">REDES SOCIALES</h1>
+        <a href="https://youtube.com/@flamimgfox21" class="image-link">
+            <img style="width: 10%;" src="https://www.image2url.com/r2/default/images/1778626467373-6fc9182d-b47f-4bbe-9d0b-76c260219113.png" alt="YouTube" class="centerImage">
+        <a href="https://www.furaffinity.net/user/flamimgfox" class="image-link">
+            <img style="width: 10%;" src="https://www.image2url.com/r2/default/images/1778626498647-a3df07cf-d135-44e3-a12d-dc29777fdaef.png" alt="FurAffinity" class="centerImage">
+        <a href="https://ungenerated.io/artists/FlamimgFox" class="image-link">
+            <img style="width: 10%;" src="https://www.image2url.com/r2/default/images/1778626529983-434d2f9b-95b9-4c66-90b5-6e0654707900.png" alt="Ungenerated" class="centerImage">
+        <a href="https://characterhub.com/profile/flamimgfox" class="image-link">
+            <img style="width: 10%;" src="https://www.image2url.com/r2/default/images/1778626551100-e7c07f9b-992f-4105-9db1-f5ac30456d9b.png" alt="CharacterHub" class="centerImage">
+        <a href="https://instagram.com/sanrrrenard" class="image-link">
+            <img style="width: 10%;" src="https://www.image2url.com/r2/default/images/1778626439271-b7243331-11a9-4682-89ba-bfb3e41bb8fd.png" alt="Instagram" class="centerImage">
+        <a href="https://www.tiktok.com/@d3adch1ckh3n" class="image-link">
+            <img style="width: 10%;" src="https://www.image2url.com/r2/default/images/1778626389302-2d1e0965-adfa-4e24-b4fa-ffe93b4a2858.png" alt="TikTok" class="centerImage">
+        <a href="https://guns.lol/kasthegoat" class="image-link">
+            <img style="width: 10%;" src="https://www.image2url.com/r2/default/images/1778626584757-a5806473-fda3-4d50-af85-2036abf3d47f.png" alt="Guns.lol" class="centerImage">
+        <a href="https://l.likee.video/p/Bf5kG5" class="image-link">
+            <img style="width: 10%;" src="https://www.image2url.com/r2/default/images/1778626607050-ead85e98-4f93-481d-9bb5-55edcbfdffc6.png" alt="Likee" class="centerImage">
+        </a>
+     <p style="font-family: 'Oswald', sans-serif; color: black; text-align: center; font-size: 25px; -webkit-text-stroke: 1px white;"><b>hay un vergal más pero estas son las que veraderamente uso</b></p>
+     </body>  
+</html>
