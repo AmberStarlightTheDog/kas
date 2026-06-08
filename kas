@@ -20,7 +20,7 @@
       font-family: Helvetica, sans-serif;
     }
     </style>
-    <h1 style="font-family: Impact; color: white; text-align: center; font-size: 45px;">Hola! Bienvenido a mi página! Aunque primero te tengo que advertir que esto no se verá bien en dispositivos móviles, mejor en una computadora y en Firefox xd, y apenas esta en construcción! Si quieres entrar, solo dale click a la imagen que será remplazada por arte comisionado owo</h1>
+    <h1 style="font-family: Impact; color: white; text-align: center; font-size: 45px;">Hola! Bienvenido a mi página! Aunque primero te tengo que advertir que esto no se verá bien en dispositivos móviles, mejor en una computadora 2256x1504 y en Firefox xd, y apenas esta en construcción! Si quieres entrar, solo dale click a la imagen que será remplazada por arte comisionado owo</h1>
     </style>
              <a href="/home" class="image-link">
             <img style="width: 30%;" src="https://www.image2url.com/r2/default/images/1778538279435-b587150c-8f88-4c81-9e41-8bbbcea566e2.png" alt="PLACEHOLDER" class="centerImage">
@@ -32,7 +32,8 @@
                     margin-right: auto;
                     width: 20%;
                 }
-            </style>
+    </style>
+    </a>
     <br>
     <img style="width: 50%" src="tssoretro.gif" alt="mis gustos" class="centerImage">
  </a></body>
