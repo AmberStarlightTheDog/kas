@@ -2,4 +2,4 @@ ESTO ESTA MUY INCOMPLETO ES CASI UNA PRUEBA, los placeholders los voy a remplasa
 
 Probablemente no trabajaré en esta pagina hasta julio, aunque he hecho mucho progreso
 
-EDIT: ni en agosto 🇮🇱
+EDIT: Si habrá progreso… pero no mucho
