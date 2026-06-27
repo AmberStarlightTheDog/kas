@@ -3,3 +3,5 @@ ESTO ESTA MUY INCOMPLETO ES CASI UNA PRUEBA, los placeholders los voy a remplasa
 Probablemente no trabajaré en esta pagina hasta julio, aunque he hecho mucho progreso
 
 EDIT: Si habrá progreso… pero no mucho
+
+EDIT 2: WE SO BACK BBY 🗣️🗣️💥‼️
