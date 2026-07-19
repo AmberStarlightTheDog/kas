@@ -8,7 +8,7 @@
          <style>
           body
         {
-            background-image: url(bars.gif);
+            background-image: url(imghouse/bars.gif);
             height: 100vh;
             background-size: cover;
             background-position: center;
@@ -27,6 +27,7 @@
      <h1 style="font-family: Impact; color: red; text-align: center; font-size: 60px; text-shadow: 0px 0px 10px rgb(255, 43, 43), 0px 0px 20px rgb(255, 43, 43), 0px 0px 40px rgb(255, 43, 43), 0px 0px 88px rgb(255, 43, 43);">Esto es un wip!</h1>
      <h1 style="font-family: Impact; color: rgb(41, 0, 0); text-align: center; font-size: 60px; -webkit-text-stroke: 1px white;">kas the goat</h1>
      <p style="font-family: Oswald; color: black; text-align: center; font-size: 24px; -webkit-text-stroke: 1px white;;"><b>Hola! Soy kas, goat, kas the goat o Kitsune² y DJ Spyroof #1 fan, y has encontrado mi página! Aquí encontrarás <br> información mía como mi arte y gustos, me encanta hablar de mis gustos ^w^</b></p>
+     <link rel="stylesheet" href="style.css">
      <link rel="preconnect" href="https://fonts.googleapis.com">
      <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
      <link href="https://fonts.googleapis.com/css2?family=Oswald:wght@200..700&amp;display=swap" rel="stylesheet">
@@ -47,7 +48,7 @@
        <img style="width: 70%;" src="https://www.image2url.com/r2/default/images/1780779823427-494b23b9-8305-4b4c-a336-af58742613cf.png" class = "centerImage">
       <h1 style="font-family: Impact; color: rgb(41, 0, 0); text-align: center; font-size: 45px; -webkit-text-stroke: 1px white;">OTRAS CATEGORIAS</h1>
       <p style="font-family: 'Oswald', sans-serif; color: black; text-align: center; font-size: 25px; -webkit-text-stroke: 1px white;"><b>se añadiran mas pronto :v</b></p>
-        <a href="https://kasgoat.com/reglas/" class="image-link"><img style="width: 10%;" src="https://www.image2url.com/r2/default/images/1778708827480-47b8d025-c6ef-4d6e-a462-4f2c9263d646.png" alt="REGLAS" class="centerImage"></a><a href="https://pronombr.es/@flamimgfox" class="image-link"><img style="width: 10%;" src="https://www.image2url.com/r2/default/images/1780889225363-950490ee-439c-4a55-b6ca-da67f62a3300.png" alt="PRONOMBRES" class="centerImage"></a>
+        <a href="https://kasgoat.com/reglas/" class="image-link"><img style="width: 10%;" src="https://www.image2url.com/r2/default/images/1778708827480-47b8d025-c6ef-4d6e-a462-4f2c9263d646.png" alt="REGLAS" class="centerImage"></a><a href="https://pronombr.es/@flamimgfox" class="image-link"><img style="width: 10%;" src="https://www.image2url.com/r2/default/images/1780889225363-950490ee-439c-4a55-b6ca-da67f62a3300.png" alt="PRONOMBRES" class="centerImage"></a><a href="kasgoat.com/masdemi" class="image-link"><img style="width: 10%;" src="imghouse/button.png" alt="PRONOMBRES" class="centerImage"></a>
     <img style="width: 50%" src="tssoretro.gif" alt="mis gustos" class="centerImage">
       </a></body>
 </html>
