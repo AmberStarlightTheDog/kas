@@ -1,6 +1,8 @@
 <!DOCTYPE html>
 <html>
 <body>
+ <meta charset="UTF-8">
+ <meta name="viewport" content="width=device-width, initial-scale=1.0">
  <title>kas / más de mi</title>
    <style>
       body {
@@ -10,11 +12,9 @@
          background-position: center;
       }
    </style>
-   <link rel="stylesheet" href="style.css">
-   <link rel="shortcut icon" href="https://www.image2url.com/r2/default/images/1780642535608-015e5936-6aec-4400-85fb-73517ffd46d6.jpeg">
    <link rel="preconnect" href="https://fonts.googleapis.com">
-   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-   <link href="https://fonts.googleapis.com/css2?family=Oswald:wght@200..700&amp;display=swap" rel="stylesheet">
+     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+     <link href="https://fonts.googleapis.com/css2?family=Oswald:wght@200..700&amp;display=swap" rel="stylesheet">
    <p style="font-family: Oswald; color: grey; text-align: center; font-size: 25px; -webkit-text-stroke: 1px white;"><i><a href="">psst… porque no escuchas un poco de música mientras visitas esta página? :D</a></i></p>
    <a href="https://kasgoat.com/home" class="REGRESA">
     <img style="width: 200px; margin-left: 600px; margin-bottom: -30px;" src="img/REGRESA.png" alt="REGRESA" class="centerImage">
@@ -895,7 +895,7 @@
     <br>
     <br>
     <img src="musik/DJ Spyroof/covers/speedbreaker.jpeg" alt="covers" width="150px">
-        <h1 style="font-family: Impact; color: #42a9d8; margin-top: -150px; margin-left: 170px; font-size: 25px; -webkit-text-stroke: 1px white;">Speedbreaker</h1>
+        <h1 style="font-family: Impact; color: #42a9d8; margin-top: -150px; margin-left: 170px; font-size: 25px; -webkit-text-stroke: 1px white;">Speedbreaker (Club Mix)</h1>
         <h1 style="font-family: Impact; color: #42a9d8; margin-top: -15px; margin-left: 170px; font-size:18px; -webkit-text-stroke: 1px white;">Con Potato Inc.</h1>
      <div class="headmuzik2"></div>
      <div class="footmuzik2"></div>
@@ -984,7 +984,7 @@
     <br>
     <img src="musik/Other artists/covers/endless summer.png" alt="covers" width="150px">
         <h1 style="font-family: Impact; color: #42a9d8; margin-top: -155px; margin-left: 170px; font-size: 25px; -webkit-text-stroke: 1px white;">Endless Summer (Nightcore)</h1>
-        <h1 style="font-family: Impact; color: #42a9d8; margin-top: -15px; margin-left: 170px; font-size:18px; -webkit-text-stroke: 1px white;">Siria Remixeado por Corexa Velocidad subida por mi</h1>
+        <h1 style="font-family: Impact; color: #42a9d8; margin-top: -15px; margin-left: 170px; font-size:18px; -webkit-text-stroke: 1px white;">Originalmente por Siria Remixeado por Corexa Velocidad subida por mi</h1>
      <div class="headmuzik2"></div>
      <div class="footmuzik2"></div>
      <div class="containermuzik2">
