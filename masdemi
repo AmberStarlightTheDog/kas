@@ -4,9 +4,10 @@
  <meta charset="UTF-8">
  <meta name="viewport" content="width=device-width, initial-scale=1.0">
  <title>kas / más de mi</title>
+   <link rel="shortcut icon" href="favicon.jpg">
    <style>
       body {
-         background-image: url(img/bg.png);
+         background-image: url(imgplus/bg.png);
          height: 430vh;
          background-size: cover;
          background-position: center;
@@ -17,10 +18,10 @@
      <link href="https://fonts.googleapis.com/css2?family=Oswald:wght@200..700&amp;display=swap" rel="stylesheet">
    <p style="font-family: Oswald; color: grey; text-align: center; font-size: 25px; -webkit-text-stroke: 1px white;"><i><a href="https://kasgoat.com/masdemi/#:~:text=M%C3%BAsica%20que%20me%20gusta%20%3A3">psst… porque no escuchas un poco de música mientras visitas esta página? :D</a></i></p>
    <a href="https://kasgoat.com/home" class="REGRESA">
-    <img style="width: 200px; margin-left: 600px; margin-bottom: -30px;" src="img/REGRESA.png" alt="REGRESA" class="centerImage">
+    <img style="width: 200px; margin-left: 600px; margin-bottom: -30px;" src="imgplus/REGRESA.png" alt="REGRESA" class="centerImage">
    </a>
    <p style="font-family: Oswald; color: black; margin-left: 980px; margin-bottom: 5px; font-size: 25px; -webkit-text-stroke: 1px white;">gif hecho por  <a href="https://www.youtube.com/@springgenoo">Geno</a>! :D</p>
-   <img src="img/geno.gif" alt="geno" width="550px" class="next2me">
+   <img src="imgplus/geno.gif" alt="geno" width="550px" class="next2me">
    <style>
       .next2me  {
          margin-left: 790px;
@@ -37,14 +38,14 @@
        margin: 25px;
       }
    </style>
-      <img src="img/spynard.png" width="550px" class="next4me">
+      <img src="imgplus/spynard.png" width="550px" class="next4me">
    <style>
       .next4me  {
       margin-left: 790px;
       margin-bottom: -950px;
       }
    </style>
-   <img src="img/rave.png" width="550px" class="next6me">
+   <img src="imgplus/rave.png" width="550px" class="next6me">
    <style>
       .next6me  {
        margin-left: 790px;
@@ -56,7 +57,7 @@
        border: solid 7px #00926b;
        border-radius: 1rem;
        width:550px;
-       background-image: url(img/dash2.png);
+       background-image: url(imgplus/dash2.png);
        padding:40px;
        margin: 25px;
       }
@@ -66,7 +67,7 @@
        border: solid 7px #83daff;
        border-radius: 1rem;
        width:550px;
-       background-image: url(img/dash3.png);
+       background-image: url(imgplus/dash3.png);
        background-size: 1500px;
        padding:40px;
        margin: 25px;
