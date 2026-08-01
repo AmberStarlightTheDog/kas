@@ -42,7 +42,7 @@
             <p style="font-family: Oswald; color: black; text-align: justify; font-size: 30px; -webkit-text-stroke: 1px white; margin-bottom: 10px;">Cuál es tu nombre?</p>
             <input type="text" name="your_name" required size="40px" maxlenght="35">
             <p style="font-family: Oswald; color: black; text-align: justify; font-size: 30px; -webkit-text-stroke: 1px white; margin-bottom: 10px;">Cuál es tu pregunta?</p>
-            <textarea name="your_question" id="your_question" class="fixed-textarea" maxlength="1465" oninput="updateCharCount()"></textarea>
+            <textarea name="your_question" id="your_question" class="fixed-textarea" maxlength="1465" required oninput="updateCharCount()"></textarea>
             <style>
                .fixed-textarea {
                     resize: none;
