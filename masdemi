@@ -33,7 +33,7 @@
        border: solid 7px #009200;
        border-radius: 1rem;
        width:550px;
-       background-image: url(img/dash.png);
+       background-image: url(imgplus/dash.png);
        padding:40px;
        margin: 25px;
       }
@@ -1166,7 +1166,7 @@ Go!<br>(After love, after love)...<br>Go!<br>(After love, after love)...<br>Go D
      </details>
    </div>
    <a href="https://kasgoat.com/home" class="REGRESA">
-    <img style="width: 200px; margin-left: 140px; margin-bottom: -200px;" src="img/REGRESA.png" alt="REGRESA" class="centerImage">
+    <img style="width: 200px; margin-left: 140px; margin-bottom: -200px;" src="imgplus/REGRESA.png" alt="REGRESA" class="centerImage">
    </a>
    <img src="tssoretro.gif" style="width: 700px; margin-left: -105px; margin-bottom: -480px; padding-bottom: 25px;">
    <br>
