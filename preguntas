@@ -29,7 +29,8 @@
           </style>
      </body>
      <a href="https://kasgoat.com/home" class="REGRESA">
-     <img src="imgquest/REGRESA.png" class="centerImage" width="250px" src="https://kasgoat.com/home">
+      <img src="imgquest/REGRESA.png" class="centerImage" width="250px">
+     </a>
      <div class="head"></div>
      <div class="foot"></div>
      <div class="container">
