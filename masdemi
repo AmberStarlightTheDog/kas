@@ -95,7 +95,7 @@
    <div class="container3">
    <div class="box3">
    <h1 style="font-family: Impact; color: black; text-align: justify; font-size: 35px; -webkit-text-stroke: 1px white;">Trivia</h1>
-   <p style="font-family: Oswald; color: black; text-align: justify; font-size: 24px; -webkit-text-stroke: 1px white;;"><b>• Quiero ser un cuidador de zoológico, programador de videojuegos, hacer una película y músico 0_o <br> • Mi comida favorita es Maní Pro, que es maní cubierto en chocolate <br> • Mis animales favoritos son lobos, cabras, zorros y ratas <br> • Mis artistas favoritos son <a href="https://www.youtube.com/@springgenoo">Geno</a>, <a href="https://www.youtube.com/@KittydogCrystal">kittydog</a>, <a href="https://www.instagram.com/aijkoo?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==">aijkoo</a> <a href="https://www.youtube.com/@kippytoonz">kippytoons</a>, <a href="https://www.youtube.com/@temmychu">Temmychu</a>, <a href="https://www.youtube.com/@amwaycanter">Am Raye</a>, <a href="https://www.youtube.com/@Psychedelipup">Psychedelic Puppy</a>, <a href="https://www.furaffinity.net/user/cerberus/">Tirrel</a>, <a href="https://www.youtube.com/@mccblss">MoccaBliss</a> y <a href="https://web.archive.org/web/20230510161616/https://meepmop.carrd.co/">meep/mop</a><br> • Soy alérgico al kiwi <br> • No quiero ser famoso <br> • Me volví furro por Animal Jam :> lo he sido por 7 años (2019) <br> • COMPLETE MUNGYODANCE 1 EN 1 DÍA (técnicamente 2 porque complete los INSANES en otro día pero weno) <br> • Mis colores favoritos son el verde y azul <br> • Estoy aprendiendo portugués <br> • OTROS FANES DE LAPFOX TRAX Y DJ SPYROOF PORFA INTERACTÚEN :((((( QUIERO SER TU AMIGO!!! <br> • Soy un <a href="https://dictionary.cambridge.org/dictionary/english/raver">raver</a>! :D Aunque no visto así pero realmente quiero 3’: (no tomo drogas ;P)</b></p>
+   <p style="font-family: Oswald; color: black; text-align: justify; font-size: 24px; -webkit-text-stroke: 1px white;;"><b>• Quiero ser un cuidador de zoológico, programador de videojuegos, hacer una película y músico 0_o <br> • Mi comida favorita es Maní Pro, que es maní cubierto en chocolate <br> • Mis animales favoritos son lobos, cabras, zorros y ratas <br> • Mis artistas favoritos son <a href="https://www.youtube.com/@springgenoo">Geno</a>, <a href="https://www.youtube.com/@KittydogCrystal">kittydog</a>, <a href="https://www.instagram.com/aijkoo?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==">aijkoo</a> <a href="https://www.youtube.com/@kippytoonz">kippytoons</a>, <a href="https://www.youtube.com/@temmychu">Temmychu</a>, <a href="https://www.youtube.com/@amwaycanter">Am Raye</a>, <a href="https://www.youtube.com/@Psychedelipup">Psychedelic Puppy</a>, <a href="https://www.furaffinity.net/user/cerberus/">Tirrel</a>, <a href="https://www.youtube.com/@mccblss">MoccaBliss</a>, <a href="https://web.archive.org/web/20230510161616/https://meepmop.carrd.co/">meep/mop</a> muchísimos otros más :P <br> • Soy alérgico al kiwi <br> • No quiero ser famoso <br> • Me volví furro por Animal Jam :> lo he sido por 7 años (2019) <br> • COMPLETE MUNGYODANCE 1 EN 1 DÍA (técnicamente 2 porque complete los INSANES en otro día pero weno) <br> • Mis colores favoritos son el verde y azul <br> • Estoy aprendiendo portugués <br> • OTROS FANES DE LAPFOX TRAX Y DJ SPYROOF PORFA INTERACTÚEN :((((( QUIERO SER TU AMIGO!!! <br> • Soy un <a href="https://dictionary.cambridge.org/dictionary/english/raver">raver</a>! :D Aunque no visto así pero realmente quiero 3’: (no tomo drogas ;P)</b></p>
    </div>
    <br>
    <h1 style="font-family: Impact; color: black; text-align: center; font-size: 60px; -webkit-text-stroke: 1px white;">Música que me gusta :3</h1>
@@ -104,7 +104,7 @@
       .muzik  {
          border-radius: 1rem;
          width: 500px;
-         background-image: url(img/sticks.png);
+         background-image: url(imgplus/sticks.png);
          padding: 25px;
          margin-left: 440px;
       }
@@ -113,7 +113,7 @@
       .muzik2  {
          border-radius: 1rem;
          width: 300px;
-         background-image: url(img/sticks2.png);
+         background-image: url(imgplus/sticks2.png);
          background-size: 323px;
          background-position-x: -16px;
          margin-top: -5px;
@@ -1164,6 +1164,27 @@ Go!<br>(After love, after love)...<br>Go!<br>(After love, after love)...<br>Go D
         <summary><h1 style="font-family: Impact; color: #42a9d8; margin-top: 1px; margin-left: 3px; font-size: 25px; -webkit-text-stroke: 1px white;">Letra</h1></summary>
         <p style="font-family: Oswald; color: #42a9d8; margin-top: -10px; margin-left: 3px; font-size: 25px; -webkit-text-stroke: 1px white;">Гори, гори, азма! <br>Гори, гори, азма!  <br>Гори, гори, азма! <br>Гори, гори, азма!  <br>Обыни богатства! <br>Обыни богатства! <br>Обыни богатства! <br>Обыни богатства! <br>Гори, гори, азма! <br>Гори, гори, азма!  <br>Гори, гори, азма! <br>Гори, гори, азма!  <br>Обыни богатства! <br>Обыни богатства! <br>Обыни богатства! <br>Обыни богатства! <br>Take me to the party! <br>Гори, гори, азма! <br>Гори, гори, азма!  <br>Гори, гори, азма! <br>Гори, гори, азма! <br>Гори, гори, азма!  <br>Гори, гори, азма! <br>Обыни богатства! <br>Обыни богатства! <br>Обыни богатства!  <br>Обыни богатства!  <br>Гори, гори, азма! <br>Гори, гори, азма!  <br>Гори, гори, азма! <br>Гори, гори, азма! <br>Обыни богатства! <br>Обыни богатства! <br>Обыни богатства! <br>Я хочу найти тебя  <br>Где-то на своей планете  <br>Притянуть ко мне твой взгляд  <br>Пока над нами солнце светит  <br>Я хочу зажечь  <br>тебя силой своего огня  <br>И всю ночь вдыхать тебя, вдыхать тебя <br>Гори, гори, азма! <br>Гори, гори, азма!  <br>Гори, гори, азма!  <br>Гори, гори, азма! <br>Обыни богатства! <br>Обыни богатства! <br>Обыни богатства!  <br>Гори, гори, азма! <br>Гори, гори, азма!  <br>Гори, гори, азма!  <br>Гори, гори, азма! <br>Обыни богатства! <br>Обыни богатства! <br>Обыни богатства! <br>Take me to the party! <br>Гори, гори, азма! <br>Гори, гори, азма! <br>Гори, гори, азма!  <br>Гори, гори, азма!  <br>Гори, гори, азма!  <br>Обыни богатства! <br>Обыни богатства! <br>Обыни богатства!  <br>Гори, гори, азма! <br>Гори, гори, азма!  <br>Гори, гори, азма!  <br>Гори, гори, азма! <br>Обыни богатства! <br>Обыни богатства! <br>Обыни богатства!  <br>Take me to the party! <br>Обыни богатства! <br>Обыни богатства! <br>Обыни богатства! <br>Обыни богатства! <br></p>
      </details>
+   </div>
+   <div> 
+    <p style="font-family: Impact; color: black; font-size: 35px; -webkit-text-stroke: 1px white; margin-left: 120px; margin-bottom: -180px;">Recomiéndame una canción :0</p>
+    <form autocomplete="off" class="form" action="https://formspree.io/f/mkjwzrjn" method="post">
+      <textarea name="rec" id="rec" class="rec" maxlength="150" required></textarea>
+      <button type="submit" class="pusheb" style="color: blue; font-family: Oswald; font-size: 20px;">Enviar ^w^</button>
+       <style>
+         .rec  {
+            resize: none;
+            width: 340px;
+            margin-left: 10px;
+            margin-bottom: -220px;
+         }
+       </style>
+       <style>
+         .pusheb  {
+            margin-top: 185px;
+            margin-left: 380px;
+         }
+       </style>
+    </form>
    </div>
    <a href="https://kasgoat.com/home" class="REGRESA">
     <img style="width: 200px; margin-left: 140px; margin-bottom: -200px;" src="imgplus/REGRESA.png" alt="REGRESA" class="centerImage">
