@@ -45,11 +45,11 @@
       margin-bottom: -950px;
       }
    </style>
-   <img src="imgplus/rave.png" width="550px" class="next6me">
+   <img src="imgplus/rave.png" width="350px" class="next6me">
    <style>
       .next6me  {
-       margin-left: 790px;
-       margin-bottom: -1700px;
+       margin-left: 850px;
+       margin-bottom: -1800px;
       }
    </style>
    <style>
@@ -113,7 +113,7 @@
       .muzik2  {
          border-radius: 1rem;
          width: 300px;
-         background-image: url(imgplus/sticks2.png);
+         background-color: transparent;
          background-size: 323px;
          background-position-x: -16px;
          margin-top: -5px;
