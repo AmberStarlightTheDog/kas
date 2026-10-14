@@ -1,5 +1,5 @@
 <!DOCTYPE html NO VOY A COMPARTIR LO QUE PUBLICO EN MI VENTLOG NI LAS OTRAS SECCIONES (usa click derecho y “ver origen de la pagina” en computadora para eso) ESTO LO AGREGUÉ SI QUIERES HACER EL TUYO>
-    <meta charset="UTF-8">
+   <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>XXX / Ventlog</title>
     <link rel="shortcut icon" href="favicon.ico">
@@ -12,6 +12,18 @@
             background-position: center;
         }
         </style>
+    <div class="pop-up" style="position: fixed; background-image: url(vent/buttonbg.png); margin-left: -8px; width: 1494px; height: 860px; border: solid 5px red;">
+     <h1 style="color: red; text-align: center; font-size: 60px; margin-top: 120px;">ADVERTENCIA</h1>
+     <p style="color: darkred; text-align: center; font-size: 30px; margin-top: 100px;">Esta página no es para todo público ya que toca temas sensibles, se recomienda tener una mente madura para entrar, al entrar, no juzgaras y aceptas esto, no todos tienen los mismos problemas que tú. </br> Esta página no está hecha para dispositivos móviles.</p>
+     <button class="entrar" style="color: #991818; background-color: #672828; font-family: 'times new roman'; border: solid 5px red; font-size: 60px; margin-left: auto; margin-right: auto; display: block; cursor: pointer; margin-top: 100px;">Entrar</button>
+      <script>
+       const popup = document.querySelector('.pop-up');
+       const hideButton = document.querySelector('.entrar');
+       hideButton.addEventListener('click', function () {
+       popup.style.display = 'none';
+       });
+      </script>
+    </div>
      <div style="display: flex; align-items:center; margin-left: -8px; margin-top: -8px; background-color: black; border-bottom: solid red 5px; border-top: solid red 5px; margin-right: -8px;">
       <button style="background-image: url(vent/buttonbg.png); border-left: solid red 5px;  border-right: solid red 5px; border-top: none; border-bottom: none; width: 200px; height: 128px; color: red; font-size: 35px; font-family: 'Times New Roman';" title="ESTOS BOTONES SON DECORATIVOS NADA MÁS NO LLEVAN A NINGÚN LADO XD">Regresa</button>
       <a href="http://kasgoat.com/ventlog/masde"><button style="background-image: url(vent/buttonbg.png); border-left: solid red 5px;  border-right: solid red 5px; border-top: none; border-bottom: none; width: 200px; height: 128px; color: red; font-size: 35px; font-family: 'Times New Roman'; margin-left: -7px; cursor: pointer;">Sobre nosotros</button></a>
@@ -29,10 +41,10 @@
      </div>
      <div style="overflow: auto; background-color: black; border: solid red 5px; width: 760px; height: 600px; margin-top: -608px; margin-left: 600px;">
         <div style="background-color: transparent; border-bottom: solid red 5px;">
-         <h1 style="color: red; margin-left: 35px; font-size: 50px; position: fixed;">Reciente de XXX:</h1>
+         <h1 style="color: red; margin-left: 35px; font-size: 50px;">Reciente de XXX:</h1>
         </div>
-        <div style="background-color: transparent; border: solid red 5px; margin-top: 130px; margin-left: -5px; margin-right: -5px;">
-<h1 style="color: red; margin-left: 35px; font-size: 50px;">---"XXX" (##/##/## ##:##XX)------</h1>
+        <div style="background-color: transparent; border-top: solid red 5px; border-bottom: solid red 5px; border-left: none; border-right: none; margin-top: -4px;">
+         <h1 style="color: red; margin-left: 35px; font-size: 50px;">---"XXX" (##/##/## ##:##XX)------</h1>
          <p style="color: red; margin-left: 35px; font-size: 35px;">XXX</p>
         </div>
         <p style="color: darkred; font-size: 20px; text-align: center;">Has llegado al final… pero no al de tu vida</p>
