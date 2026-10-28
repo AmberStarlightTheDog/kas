@@ -4,15 +4,13 @@ Sientete libre de ayudarme :3
 2. Remodelar las páginas para que no vea como de los 90 ➖
 3. Cambiar fondos ➖
 4. Acomodar texto ➖
-5. Arreglar “masdemi” ✅
-6. Quitar esos placeholders
-7. Hacer las categorías que tenía antes en mi carrd ➖
-8. Hacer una sección para mis personajes
-9. Remplazar unas canciones en “más de mi” ✅
-10. Hacer un archivo de YT ➖
-11 Hacer “ventlog” ✅
-12. Hacer un “404” ➖
-13. Hacer animación de click
+5. Quitar esos placeholders
+6. Hacer las categorías que tenía antes en mi carrd ➖
+7. Hacer una sección para mis personajes
+8. Hacer un archivo de YT ➖
+9. Hacer un “404” ➖
+10. Hacer animación de click
+11. Rehacer ese código terrible de “más de mi”
 
 ➖ = empezado
-✅ = terminado (obv)
+Si algo fue removido significa que fue terminado o cancelado ^w^
