@@ -10,6 +10,7 @@ Sientete libre de ayudarme :3
 8. Hacer un “404” ➖
 9. Hacer animación de click
 10. Rehacer ese código terrible de “más de mi”
+11. Hacer un “no tienes permiso de entrar en esta página”
 
 ➖ = empezado
 Si algo fue removido significa que fue terminado o cancelado ^w^
